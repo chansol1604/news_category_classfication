@@ -1,0 +1,2 @@
+# news_category_classfication
+intel_ai_exam
