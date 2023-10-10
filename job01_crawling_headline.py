@@ -5,7 +5,7 @@ import pandas as pd
 import datetime
 
 category = ['Politics', ' Economic', 'Social', 'Culture', 'World', 'IT']
-url = 'https://news.naver.com/main/main.naver?mode=LSD&mid=shm&sid1=10'
+url = 'https://news.naver.com/main/main.naver?mode=LSD&mid=shm&sid1=100'
 
 headers = {'User-Agent':'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36'}
 
